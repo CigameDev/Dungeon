@@ -12,7 +12,7 @@ public class GameManager : MonoBehaviour
 
     private void Start()
     {
-        //viet linh tinh vao
+        //viet linh tinh vao day
         //ahfhs
         //dsdfhsdfwuefe
     }
@@ -23,6 +23,6 @@ public class GameManager : MonoBehaviour
         //schsfyuwey
         //fhfwfhdswe
     }
-    //nguoi yeu oi  dem anh  mo bong em den
-    //va dem nay bao nhieu vi sao sang dang ve
+    //nguoi yeu oi  dem anh  mo bong
+    //va dem nay bao nhieu vi sao sang d
 }
