@@ -9,4 +9,20 @@ public class GameManager : MonoBehaviour
     {
         Instance = this;
     }
+
+    private void Start()
+    {
+        //viet linh tinh vao day
+        //ahfhsdf
+        //dsdfhsdfwuefe
+    }
+
+    private void Update()
+    {
+        //viet linh tinh vao day
+        //schsfyuwey
+        //fhfwfhdswe
+    }
+    //nguoi yeu oi bao dem anh tham mo bong em den
+    //va dem nay bao nhieu vi sao sang dang ve
 }
