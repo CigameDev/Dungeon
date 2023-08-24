@@ -8,8 +8,11 @@ public class EventManager : MonoBehaviour
 
     private void Awake()
     {
+        //nhin tun
+        //tim dau cho dau thay
         Instance = this;
-        //viet linh tinh vao day
+        //viet linh tinh  day
     }
     //hahaha
+    //them linh ta linh tinh vao day
 }
