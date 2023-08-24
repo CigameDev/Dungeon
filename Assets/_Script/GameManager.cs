@@ -16,10 +16,11 @@ public class GameManager : MonoBehaviour
         //ahfhs
         //dsdfhsdfwuefe
     }
+    //them linh ta linh tinh vao day
 
     private void Update()
     {
-        //viet  tinh vao day
+        //viet  vao day
         //schsfyuwey
         //fhfwfhdswe
     }
