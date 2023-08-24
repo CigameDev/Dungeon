@@ -11,7 +11,7 @@ public class EventManager : MonoBehaviour
         //nhin tun
         //tim dau cho  thay
         Instance = this;
-        //viet linh tinh  day
+        //viet linh tinh 
     }
     //haha
     //them linh ta linh tinh vao day

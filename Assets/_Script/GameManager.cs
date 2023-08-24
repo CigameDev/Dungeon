@@ -16,6 +16,7 @@ public class GameManager : MonoBehaviour
         //ahfhs
         //dsdfhsdfwuefe
     }
+    //them linh ta linh tinh vao day
 
     private void Update()
     {
